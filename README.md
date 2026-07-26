@@ -77,26 +77,6 @@ Jewelry E-Commerce Website
 
 ---
 
-### 🎂 SweetNest
-
-Cake Ordering & Customization Website
-
-- UI/UX Design
-- User Testing
-- Interactive Prototype
-
----
-
-### 💻 TechStore
-
-Technology E-Commerce Platform
-
-- UI Design
-- User Research
-- Prototype
-
----
-
 # 🏆 Certificates
 
 ### Boot.dev
